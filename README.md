@@ -1,3 +1,5 @@
+![SreenShot](https://github.com/BrondoL/TranskripNilai/blob/master/ScreenShot/Screenshot.png)
+
 # Transkrip Nilai
 
 
